@@ -12,7 +12,7 @@
     Um sistema de cadastro de alunos, turmas e matrículas. <br>
     Feito com SQLite3 e GUI Tkinter.
     <br />
-    <a href="https://youtu.be/MGslEcmVurg"><strong>Página de Download »</strong></a>
+    <a href="https://github.com/iamjunioru/sistema-de-cadastro/releases/tag/v0.5"><strong>Página de Download »</strong></a>
     <br />
     <br />
     <a href="https://raw.githubusercontent.com/iamjunioru/sistema-de-cadastro/main/menu.py">Ver Código</a>
